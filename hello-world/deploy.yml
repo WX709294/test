@@ -1,0 +1,8 @@
+- name: "123"
+  product: wind
+  modules:
+    - name: "123"
+      type: web
+      path:
+        - src: dist
+          dst: /
